@@ -4,7 +4,7 @@
 
 Le processus de code est ensemble d'étapes indispensables l'orsque l'on code que voici :  
 
-![process de code](https://loulou123546/coursICN/basic/process-code.png)
+![process de code](https://loulou123546.github.io/coursICN/basic/process-code.png)
 
 ### Analyse
 
