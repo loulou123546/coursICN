@@ -9,7 +9,7 @@ Pour remettre les choses en place, **Internet** est l'ensemple des réseaux perm
 Vous utiliser Internet tout les jours pour :  
 - Allez surfer sur le web  
 - Regarder vos mails *(note : quelqu'un utilise encore les mails ?)*    
-- <s>DDOS les gens<s>    
+- <s>DDOS les gens</s>    
 - ...  
 
 Toute ses utilisations nécéssites l'envoie et la récéption de **message** sur le réseaux, voyons donc comment cela marche :  
