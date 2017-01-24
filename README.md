@@ -1,26 +1,30 @@
-# Les liens utile
+# Les liens utiles  
 
-## le siteweb
+---
 
-- C'est à vous de le faire
+## le siteweb  
 
-## les fiches
+- C'est à vous de le faire  
 
-### séance 1 : les bases
+---
+
+## les fiches  
+
+### séance 1 : les bases  
 
 - [internet](https://loulou123546.github.io/coursICN/basic/internet/)  
 - [les outils](https://loulou123546.github.io/coursICN/basic/outils/)  
 
-### séance 2 : Le HTML
+### séance 2 : Le HTML  
 
 
-### séance 3 : CSS, ou comment designer ses pages
+### séance 3 : CSS, ou comment designer ses pages  
 
 
-### séance 4 : Google material design
+### séance 4 : Google material design  
 
 
-### séance 5 : TP - Un premier site !
+### séance 5 : TP - Un premier site !  
 
 
-### séance bonus : JavaScript et animation
+### séance bonus : JavaScript et animation  
