@@ -1,6 +1,8 @@
 ## Les liens utiles  
 
-- [HTML & CSS is hard (english)](https://internetingishard.com/html-and-css/)
+- [HTML & CSS is hard (english)](https://internetingishard.com/html-and-css/)  
+- [CSS reference (english)](http://cssreference.io/)  
+- [W3.css (english)](http://www.w3schools.com/w3css/default.asp)
 
 ---
 
